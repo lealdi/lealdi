@@ -8,6 +8,7 @@ completas.
 
 - 🔧 Experiência em: <img src="https://img.shields.io/badge/-Html-orange">  <img src="https://img.shields.io/badge/-CSS-blue">  <img src="https://img.shields.io/badge/-Javascript-yellow">
 
+<h3>Contato:</h3>
 
 <p>
   <a href="https://www.linkedin.com/in/carlos-diego-leal-barbosa-7901401b3/">
@@ -22,3 +23,10 @@ completas.
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white&labelColor=red" />
   </a>
 </>
+
+ ### Status
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lealdi&,contribs&count_private=true&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
