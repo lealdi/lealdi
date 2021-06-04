@@ -1,9 +1,5 @@
-### Hi there 👋
+### Olá , Seja bem-vindo 👋
 
-<!--
-**lealdi/lealdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +9,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+<p>
+  <a href="https://www.linkedin.com/in/carlos-diego-leal-barbosa-7901401b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-3D6098?style=flat&logo=linkedin&labelColor=3D6098" />
+  </a>
+  
+  <a href="https://api.whatsapp.com/send?phone=5511960307697">
+    <img src="https://img.shields.io/badge/Whatsapp-brightgreen?style=flat&logo=WhatsApp&logoColor=white&labelColor=brightgreen" />
+  </a>
+  
+   <a href="mailto:diegoleal1913@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white&labelColor=red" />
+  </a>
+</>
